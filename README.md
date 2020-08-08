@@ -11,8 +11,8 @@ Sou um Progress 4GL Developer procurando aprender cada dia mais sobre programaç
  <br/> :star: &nbsp; Buscando colaborar com projetos em Progress 4GL
  <br/> :blush: &nbsp; Posso te ajudar com Progress 4GL
  <br/> :computer: &nbsp; Aprendendo a stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, livros, filmes, futebol e andar de patins
- <br/> :video_game: &nbsp; Fan e Player das séries Metal Gear e Resident Evil
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, livros, filmes, futebol & andar de patins
+ <br/> :video_game: &nbsp; Fan e Player das séries Metal Gear & Resident Evil
  <br/> :pig: &nbsp; Palmeirense desde criancinha
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeMoles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/t/)](https://br.linkedin.com/in/guilhermemoles) 
 | 
