@@ -4,7 +4,6 @@
 Sou apaixonado por projetos e por resolver problemas utilizando a programação.
 Sou um Progress 4GL Developer procurando aprender cada dia mais sobre programação web e mobal:
 
-:woman: &nbsp; Marido e :girl: Pai
  <br/>:green_heart:  &nbsp; Estou trabalhando na **HDI Seguros**
  <br/> :scroll: &nbsp; Bacharel em Sistemas de Informação (**UNIFACCAMP**)
  <br/> :scroll: &nbsp; MBA Gestão de Projetos (**FGV**)
