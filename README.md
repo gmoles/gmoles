@@ -1,17 +1,15 @@
 # Guilherme Moles
 
 ## Olá pessoal 👋
-Sou apaixonado por projetos e por resolver problemas utilizando a programação.
-Sou um Progress 4GL Developer procurando aprender cada dia mais sobre programação web e mobal:
+Sou apaixonado por projetos e por resolver problemas.
+Hoje estou atuando como Gerente de Projetos no Ministério da Economia e uso a programação para me divertir e criar coisas novas.
 
- <br/>:green_heart:  &nbsp; Estou trabalhando na **HDI Seguros**
- <br/> :scroll: &nbsp; Bacharel em Sistemas de Informação (**UNIFACCAMP**)
- <br/> :scroll: &nbsp; MBA Gestão de Projetos (**FGV**)
- <br/> :star: &nbsp; Buscando colaborar com projetos em Progress 4GL
+ <br/>:yellow_heart: :green_heart:  &nbsp; Estou trabalhando no **Ministério da Economia** atuando diretamente com a Transformação digital do Governo Federal!
+ <br/> :scroll: &nbsp; Especialista em Gestão de Projetos (**FGV**)
+ <br/> :star: &nbsp; Colaboro com projetos em Progress 4GL
  <br/> :blush: &nbsp; Posso te ajudar com Progress 4GL
- <br/> :computer: &nbsp; Aprendendo a stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, livros, filmes, futebol & andar de patins
- <br/> :video_game: &nbsp; Fan e Player das séries Metal Gear & Resident Evil
+ <br/> :computer: &nbsp; Brincando a stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, livros, filmes, futebol.
  <br/> :pig: &nbsp; Palmeirense desde criancinha
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeMoles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/t/)](https://br.linkedin.com/in/guilhermemoles) 
 | 
