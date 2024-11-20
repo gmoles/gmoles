@@ -4,7 +4,7 @@
 Sou apaixonado por projetos e por resolver problemas.
 Hoje estou atuando como Gerente de Projetos no Ministério da Economia e uso a programação para me divertir e criar coisas novas.
 
- <br/>:yellow_heart: :green_heart:  &nbsp; Estou trabalhando no **Ministério da Economia** atuando diretamente com a Transformação digital do Governo Federal!
+ <br/>:white_heart: 💙  &nbsp; Estou trabalhando no **Ministério da Economia** atuando diretamente com a Transformação digital do Governo Federal!
  <br/> :scroll: &nbsp; Especialista em Gestão de Projetos (**FGV**)
  <br/> :star: &nbsp; Colaboro com projetos em Progress 4GL
  <br/> :blush: &nbsp; Posso te ajudar com Progress 4GL
